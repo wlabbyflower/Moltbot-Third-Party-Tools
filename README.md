@@ -18,7 +18,11 @@
     margin-bottom: 30px;
     letter-spacing: 2px;
 ">
-   <a href="https://lazycat.cloud/" target="_blank" rel="noopener noreferrer"> 懒猫微服 <a/>
+<p align="center">
+  <a href="https://lazycat.cloud/">
+    <img src="https://img.shields.io/static/v1?label=%20%20%E6%87%92%E7%8C%AB%E5%BE%AE%E6%9C%8D%20%20&message=%20%20%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF%20%20&color=333333&style=pill&logo=googlecloud" height="60">
+  </a>
+</p>
 </div>
 
 <!-- 主标题文本 -->
@@ -54,62 +58,21 @@
         添加微信了解更多
     </div>
 
-    <!-- 号码列表 -->
-    <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-        <code style="
-            background-color: #f3f4f6;
-            border: 1px solid #e5e7eb;
-            border-radius: 6px;
-            padding: 8px 16px;
-            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-            font-size: 14px;
-            color: #1f2937;
-            font-weight: bold;
-        ">17820700354</code>
-        
-        <code style="
-            background-color: #f3f4f6;
-            border: 1px solid #e5e7eb;
-            border-radius: 6px;
-            padding: 8px 16px;
-            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-            font-size: 14px;
-            color: #1f2937;
-            font-weight: bold;
-        ">18696164198</code>
-        
-        <code style="
-            background-color: #f3f4f6;
-            border: 1px solid #e5e7eb;
-            border-radius: 6px;
-            padding: 8px 16px;
-            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-            font-size: 14px;
-            color: #1f2937;
-            font-weight: bold;
-        ">17612774028</code>
-        
-        <p style="
-            background-color: #f3f4f6;
-            border: 1px solid #e5e7eb;
-            border-radius: 6px;
-            padding: 8px 16px;
-            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-            font-size: 14px;
-            color: #1f2937;
-            font-weight: bold;
-        ">13986165101</p>
-    </div>
+| 微信号 | 微信号 | 微信号 | 微信号 |
+| --- | --- | --- | --- |
+| 17820700354 | 18696164198 | 17612774028 | 13986165101 |
 </div>
 
 </div>
+
 
 Moltbot+telegram:[moltbot&telegram](https://github.com/wlabbyflower/Moltbot-Third-Party-Tools/blob/main/%E4%B8%89%E5%8F%A5%E8%AF%9D%E9%85%8D%E7%BD%AE%20Moltbot%20%2B%20telegram%E6%8E%A5%E5%85%A5.md)
 
 Moltbot+飞书:[Moltbot&飞书](https://github.com/wlabbyflower/Moltbot-Third-Party-Tools/blob/main/Moltbot%20%E6%8E%A5%E5%85%A5%E9%A3%9E%E4%B9%A6.md)
 
+
 <p align="center">
   <a href="https://lazycat.cloud/">
-    <img src="https://img.shields.io/static/v1?label=%E6%87%92%E7%8C%AB%E5%BE%AE%E6%9C%8D&message=%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF&color=333333&style=pill&logo=googlecloud" height="45">
+    <img src="https://img.shields.io/static/v1?label=%20%20%E6%87%92%E7%8C%AB%E5%BE%AE%E6%9C%8D%20%20&message=%20%20%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF%20%20&color=333333&style=pill&logo=googlecloud" height="60">
   </a>
 </p>
