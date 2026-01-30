@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/e45ff27d1a8cd2f2335ace9ee66bc505.jpg" alt="2d1e594f08782bb6a8752a33e5596150" style="zoom:15%;" /> 
+<img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/4da6bb9387ff57a3a45d6361d81ad138.jpg" alt="2d1e594f08782bb6a8752a33e5596150" style="zoom:15%;" /> 
 
 <br/>
 
